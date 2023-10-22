@@ -19,7 +19,7 @@ which means <code>This will count the repeated numbers in the list which is dedi
   
 </ul>
 
-# Another app.js?
+# Another app2.js?
 
 so this is the same method.
 set the parameteres. So basically it is much smaller in code. it used
